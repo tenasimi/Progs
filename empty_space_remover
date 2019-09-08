@@ -1,0 +1,10 @@
+#code
+with open('text2.txt') as f:
+    for line in f:
+        if line.strip():
+            print(line, end='')
+
+
+
+#run from terminal
+python3 textmechanic.py > output_file_name.log
