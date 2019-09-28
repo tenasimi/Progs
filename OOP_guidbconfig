@@ -1,0 +1,7 @@
+# created a dictionary to hpld connection info
+dbconfig = {
+    'user': '****',
+    'password': '*',
+    'host': '127.0.0.1',
+
+}
